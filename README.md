@@ -14,7 +14,7 @@
 > изменений**. Исходный код панели не публикуется. Устанавливается подписанный
 > релиз с официального CDN.
 
-Официальная страница: [Bitrovo:Bitrix Panel](https://bitrovo.ru/solutions/bitrixpanel)
+Официальная страница: [Bitrovo: Bitrix Panel](https://bitrovo.ru/solutions/bitrixpanel)
 
 ## Установка
 
